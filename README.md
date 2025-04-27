@@ -1,6 +1,6 @@
 # Welcome!
 
-![@REKTBuildr](https://avatars.githubusercontent.com/u/577936)
+![@REKTBuildr](https://pbs.twimg.com/profile_banners/1579101601842749444/1738252759/1500x500)
 
 
 # Bookmarks
