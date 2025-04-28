@@ -7,6 +7,12 @@
 
 * [Deep C Secrets](https://progforperf.github.io/Expert_C_Programming.pdf)
 * [Modern C](https://archive.org/download/modern-c-second-edition-2019-10-10/ModernC.pdf)
+* [Perl Hashing Function](https://burtleburtle.net/bob/hash/doobs.html)
+
+PERL_HASH: Described in perlguts:
+
+`void  PERL_HASH(U32 hash, char *key, STRLEN klen)`
+
 
 
 # Contact
