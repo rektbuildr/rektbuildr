@@ -13,6 +13,10 @@ PERL_HASH: Described in perlguts:
 
 `void  PERL_HASH(U32 hash, char *key, STRLEN klen)`
 
+* [Hacker's Delight](https://github.com/lancetw/ebook-1/blob/master/02_algorithm/Hacker's%20Delight%202nd%20Edition.pdf)
+* [Avalanche Index API](https://build.avax.network/docs/api-reference/index-api)
+* [Avalanche Cryptographic Primitives](https://build.avax.network/docs/api-reference/standards/cryptographic-primitives)
+
 
 
 # Contact
