@@ -17,7 +17,7 @@ PERL_HASH: Described in perlguts:
 * [Avalanche Index API](https://build.avax.network/docs/api-reference/index-api)
 * [Avalanche Cryptographic Primitives](https://build.avax.network/docs/api-reference/standards/cryptographic-primitives)
 * [Void Realms Qt Playlist](https://www.youtube.com/@VoidRealms/search?query=qt)
-
+* [Beam node hardware](https://docs.onbeam.com/nodes/requirements)
 
 # Contact
 
