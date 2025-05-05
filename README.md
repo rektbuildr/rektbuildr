@@ -18,6 +18,11 @@ PERL_HASH: Described in perlguts:
 * [Avalanche Cryptographic Primitives](https://build.avax.network/docs/api-reference/standards/cryptographic-primitives)
 * [Void Realms Qt Playlist](https://www.youtube.com/@VoidRealms/search?query=qt)
 * [Beam node hardware](https://docs.onbeam.com/nodes/requirements)
+* [APUE Book](http://www.apuebook.com/)
+* [APUE Book Code](http://www.apuebook.com/)
+* [APUE Debugging in Linux](http://www.apuebook.com/debuglinux.pdf)
+* [apue.h](https://gist.github.com/Batou99/913559)
+
 
 # Contact
 
