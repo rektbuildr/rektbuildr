@@ -22,7 +22,7 @@ PERL_HASH: Described in perlguts:
 * [APUE Book Code](http://www.apuebook.com/)
 * [APUE Debugging in Linux](http://www.apuebook.com/debuglinux.pdf)
 * [apue.h](https://gist.github.com/Batou99/913559)
-
+* [All Qt Modules](https://doc.qt.io/qt-6/qtmodules.html)
 
 # Contact
 
