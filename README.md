@@ -16,7 +16,7 @@ PERL_HASH: Described in perlguts:
 * [Hacker's Delight](https://github.com/lancetw/ebook-1/blob/master/02_algorithm/Hacker's%20Delight%202nd%20Edition.pdf)
 * [Avalanche Index API](https://build.avax.network/docs/api-reference/index-api)
 * [Avalanche Cryptographic Primitives](https://build.avax.network/docs/api-reference/standards/cryptographic-primitives)
-
+* [Void Realms Qt Playlist](https://www.youtube.com/@VoidRealms/search?query=qt)
 
 
 # Contact
